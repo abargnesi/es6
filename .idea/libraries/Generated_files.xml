@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/out/src/fatarrow.js" />
+        <item url="file://$PROJECT_DIR$/out/src/template-literals.js" />
+        <item url="file://$PROJECT_DIR$/out/src/module-def.js" />
+        <item url="file://$PROJECT_DIR$/out/src/rest-parameters.js" />
+        <item url="file://$PROJECT_DIR$/out/src/generators.js" />
+        <item url="file://$PROJECT_DIR$/out/src/promises.js" />
+        <item url="file://$PROJECT_DIR$/out/src/promise.js" />
+        <item url="file://$PROJECT_DIR$/out/src/module-import.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/lib/generators.js" />
+      <root url="file://$PROJECT_DIR$/out/lib/bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/out/lib/build/generators.js" />
+      <root url="file://$PROJECT_DIR$/out/lib/bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/out/lib/generators.js" />
+      <root url="file://$PROJECT_DIR$/out/lib/build/generators.js" />
+      <root url="file://$PROJECT_DIR$/out/src/let.js" />
+      <root url="file://$PROJECT_DIR$/out/src/let.js" />
+      <root url="file://$PROJECT_DIR$/out/src/template-literals.js" />
+      <root url="file://$PROJECT_DIR$/out/src/fatarrow.js" />
+      <root url="file://$PROJECT_DIR$/out/src/rest-parameters.js" />
+      <root url="file://$PROJECT_DIR$/out/src/module-def.js" />
+      <root url="file://$PROJECT_DIR$/out/src/generators.js" />
+      <root url="file://$PROJECT_DIR$/out/src/promises.js" />
+      <root url="file://$PROJECT_DIR$/out/src/promise.js" />
+      <root url="file://$PROJECT_DIR$/out/src/module-import.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
